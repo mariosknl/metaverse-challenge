@@ -11,7 +11,7 @@ function Header() {
       <div className="grid grid-cols-5 lg:grid-cols-6 items-end lg:items-center">
         <div className="relative h-24 w-24 mx-auto hidden lg:inline-grid">
           <Image
-            src="https://links.papareact.com/3pi"
+            src="https://www.dropbox.com/s/8ah8f4uv4qhwmst/black%20metallic-1024x266.png?dl=0"
             layout="fill"
             className="rounded-full"
             objectFit="cover"
