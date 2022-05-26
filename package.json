@@ -6,7 +6,7 @@
     "start": "next start"
   },
   "dependencies": {
-    "@walletconnect/web3-provider": "1.7.7",
+    "@walletconnect/web3-provider": "1.7.8",
     "next": "latest",
     "react": "18.0.0",
     "react-dom": "18.0.0",
