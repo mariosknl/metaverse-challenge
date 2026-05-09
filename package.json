@@ -14,7 +14,7 @@
     "timeago-react": "3.0.7"
   },
   "devDependencies": {
-    "autoprefixer": "10.4.27",
+    "autoprefixer": "10.5.0",
     "postcss": "8.5.9",
     "tailwindcss": "4.2.2"
   }
